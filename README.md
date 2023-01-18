@@ -32,5 +32,5 @@ This project is a secure messaging application that uses OpenSSL ,Web Sockets, L
 
 ## Demo
 
-[![Demo](Screenshots/im1.png)](videos/demo.mp4)
+[![Demo](Screenshots/im8.png)](videos/demo.mp4)
 
